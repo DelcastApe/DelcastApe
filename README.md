@@ -69,9 +69,9 @@ Interactive 3D/VR environment featuring AI voice navigation and immersive scenes
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-yoshi.vercel.app/api?username=DelcastApe&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-yoshi.vercel.app/api/top-langs/?username=DelcastApe&layout=compact&theme=tokyonight)
+![GitHub followers](https://img.shields.io/github/followers/DelcastApe?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/DelcastApe?affiliations=OWNER&style=for-the-badge)
+![GitHub repos](https://img.shields.io/badge/public%20repos-15-green?style=for-the-badge)
 
 ---
 
