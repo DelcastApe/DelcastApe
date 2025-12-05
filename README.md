@@ -69,16 +69,16 @@ Interactive 3D/VR environment featuring AI voice navigation and immersive scenes
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DelcastApe&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-yoshi.vercel.app/api?username=DelcastApe&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelcastApe&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-yoshi.vercel.app/api/top-langs/?username=DelcastApe&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Reach Me
 
 📧 jchavezd9@upao.edu.pe  
-🔗 LinkedIn: *(puedo ayudarte a mejorar tu LinkedIn también)*  
+🔗 LinkedIn: https://www.linkedin.com/in/jhonnatan-del-castillo-a73a24316/  
 
 ---
 
