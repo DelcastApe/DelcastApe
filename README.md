@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jhonnatan Chávez — AI, XR & Computer Vision Developer
+# 👋 Hey, I'm Jhonnatan Del Castillo — AI, XR & Computer Vision Developer
 
 I'm a Systems & AI Engineering student currently doing an academic exchange in Spain 🇪🇸.  
 I specialize in building **AI-powered applications**, **XR interfaces**, and **real-time computer vision systems**.
